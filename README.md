@@ -1,4 +1,4 @@
-# Feedants Competition Details
+# feedants-competition
 
 An Expo React Native competition screen backed by an Express API and MongoDB.
 Competition content is seeded once into MongoDB and then loaded from the API.
